@@ -16,7 +16,7 @@ Welcome to my cybersecurity journey! I am starting from scratch and documenting 
 - **Technical Focus:** Practicing Linux CLI, shell scripting, and file permissions security.
 
 ## ISC2 CC Course Progress
-- [ ] **Domain 1:** Security Principles (In Progress ⏳)
+- [ ] **Domain 1:** Security Principles (In Progress )
 - [ ] **Domain 2:** Business Continuity (BC), Incident Response (IR) & Disaster Recovery (DR)
 - [ ] **Domain 3:** Access Controls Concepts
 - [ ] **Domain 4:** Network Security
