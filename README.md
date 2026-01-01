@@ -21,3 +21,8 @@ Welcome to my cybersecurity journey! I am starting from scratch and documenting 
 - [ ] **Domain 3:** Access Controls Concepts
 - [ ] **Domain 4:** Network Security
 - [ ] **Domain 5:** Security Operations
+
+## ✅ Day 1 Status: Lab Operational
+- **WSL2/Ubuntu**: Successfully installed and configured.
+- **First Commands**: Mastered basic user management and sudo privileges.
+- **Security Update**: System fully patched with `apt update && upgrade`.
