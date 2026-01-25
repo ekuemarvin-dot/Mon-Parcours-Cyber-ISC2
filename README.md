@@ -22,7 +22,17 @@ Welcome to my cybersecurity journey! I am starting from scratch and documenting 
 - [ ] **Domain 4:** Network Security
 - [ ] **Domain 5:** Security Operations
 
-## ✅ Day 1 Status: Lab Operational
+##  Day 1 Status: Lab Operational
 - **WSL2/Ubuntu**: Successfully installed and configured.
 - **First Commands**: Mastered basic user management and sudo privileges.
-- **Security Update**: System fully patched with `apt update && upgrade`.
+- **Security Update**: System fully patched with `apt update && upgrade.
+
+
+### Update: Day 1 - Back in the Game!
+I've officially started **Domain 1: Security Principles**. Here’s what I mastered today:
+
+- **CIA Triad**: Confidentiality, Integrity, and Availability. The foundation of every security program.
+- **Privacy vs. Security**: Security is the "lock" (protection), while Privacy is the "curtain" (individual rights and control).
+- **PII (Personally Identifiable Information)**: Understanding what data can identify an individual and why it must be protected.
+
+
